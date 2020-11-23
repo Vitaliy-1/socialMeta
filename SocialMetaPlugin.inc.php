@@ -3,7 +3,7 @@
 /**
  * @file plugins/generic/socialMeta/SocialMetaPlugin.inc.php
  *
- * Copyright (c) 2018 Vitaliy Bezsheiko, MD
+ * Copyright (c) 2018-2020 Vitaliy Bezsheiko, MD
  * Distributed under the GNU GPL v3.
  *
  * @brief Inject Open Graph and Twitter meta tags into article.
